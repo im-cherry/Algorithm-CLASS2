@@ -1,8 +1,8 @@
 # Algorithm-CLASS2
 
-### :computer: solved.ac CLASS1 문제 풀기 :computer:
+### :computer: solved.ac CLASS2 문제 풀기 :computer:
 
-[solved.ac 사이트](https://solved.ac/class)의 CLASS 문제 풀이입니다.
+[solved.ac 사이트](https://solved.ac/class)의 CLASS2 문제 풀이입니다.
 
 <!--
 ### CLASS1 문제
